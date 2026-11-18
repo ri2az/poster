@@ -1,6 +1,6 @@
 const gallery = document.getElementById("gallery");
 
-const totalImages = 500; // ← Change ce nombre selon combien d'affiches tu as
+const totalImages = 700; // ← Change ce nombre selon combien d'affiches tu as
 const imageFormat = "jpg"; // ← Change si tu utilises .png, .webp, etc.
 
 for (let i = 1; i <= totalImages; i++) {
